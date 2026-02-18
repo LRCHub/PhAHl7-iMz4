@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "silent treatment",
+  "base_artist": "Freya Skye",
+  "createdAt": "2026-02-18T14:38:55.901335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Silent_Treatment_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/02_Silent_Treatment_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/03_Silent_Treatment_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Silent Treatment - William Orbit Mix",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/04_Silent_Treatment_-_William_Orbit_Mix_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "In-Flight Safety",
+      "has_synced": false,
+      "path": "select/05_Silent_Treatment_In-Flight_Safety.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Foghat",
+      "has_synced": false,
+      "path": "select/06_Silent_Treatment_Foghat.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Bangles",
+      "has_synced": true,
+      "path": "select/07_Silent_Treatment_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Venus In Flames",
+      "has_synced": false,
+      "path": "select/08_Silent_Treatment_Venus_In_Flames.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Eric Bellinger",
+      "has_synced": true,
+      "path": "select/09_Silent_Treatment_Eric_Bellinger.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silent Treatment (featuring Cassandra Wilson)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/10_Silent_Treatment_(featuring_Cassandra_Wilson)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/11_Silent_Treatment_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Alex Vargas",
+      "has_synced": true,
+      "path": "select/12_Silent_Treatment_Alex_Vargas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/13_Silent_Treatment_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/14_Silent_Treatment_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/15_Silent_Treatment_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Silent Treatment",
+      "artist": "Everly Brothers",
+      "has_synced": false,
+      "path": "select/16_The_Silent_Treatment_Everly_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "silent treatment",
+      "artist": "Freya Skye",
+      "has_synced": false,
+      "path": "select/pl_01_silent_treatment_Freya_Skye.txt"
+    }
+  ]
+}
